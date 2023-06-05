@@ -14,7 +14,7 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/naveenanimation20/PageObjectModel
-cd PageObjectModel
+git clone https://github.com/pquangduy/Test-Create-New-Repository.git
+cd Test-Create-New-Repository
 mvn clean test
 ```
