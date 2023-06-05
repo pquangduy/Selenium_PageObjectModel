@@ -14,7 +14,7 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/pquangduy/Test-Create-New-Repository.git
-cd Test-Create-New-Repository
+git clone https://github.com/pquangduy/Selenium_PageObjectModel.git
+cd Selenium_PageObjectModel
 mvn clean test
 ```
